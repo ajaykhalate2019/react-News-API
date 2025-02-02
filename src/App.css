@@ -1,0 +1,21 @@
+.contain{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.news-img{
+height: 160px;
+object-fit: cover;
+}
+
+.news-text{
+  overflow: hidden;
+  height: 100px;
+}
